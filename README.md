@@ -1,2 +1,2 @@
 # ECOMMARCE
-project for ECOMMARCE website
+project for E-COMMERCE website
